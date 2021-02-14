@@ -1,5 +1,8 @@
 # use-size-hook
 
+[![npm version](https://badge.fury.io/js/create-react-context-data.svg)](//npmjs.com/package/use-size-hook)
+
+
 ## A simple custom hook to keep track of a component's width and height;
 
 --
