@@ -1,0 +1,20 @@
+{
+  "name": "use-size-hook",
+  "version": "1.0.1",
+  "description": "A simple custom hook to keep track of components height and width",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanciWeb/use-size-hook.git"
+  },
+  "author": "Marco Lancellotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LanciWeb/use-size-hook/issues"
+  },
+  "homepage": "https://github.com/LanciWeb/use-size-hook#readme",
+  "peerDependencies": {"react": "^17.0.1"}
+}
